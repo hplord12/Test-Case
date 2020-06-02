@@ -1,0 +1,5 @@
+name: Testing Example
+type: module
+description: Demontrates how to use PHPUnit-based tests.
+package: other
+core_version_requirement: 9.x
